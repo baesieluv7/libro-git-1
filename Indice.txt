@@ -2,3 +2,4 @@ Capitulo1: Introducción a git
 Capitulo2: Flujo de trabajo básico
 Capitulo3: Repositorios remotos
 Capitulo4: Gestion de armas 
+Capitulo5: Conceptos avanzados de git
