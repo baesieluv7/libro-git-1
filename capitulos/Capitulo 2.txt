@@ -1,0 +1,4 @@
+El flujo de tranajo básico con git consiste en:
+1. Hacer cambios en el repositorio
+2. Añadir cambios en el repositorio
+3. Hacer un comit de los cambios
